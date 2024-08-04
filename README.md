@@ -1,3 +1,6 @@
-## Hackadoo
+meteo application
+python manage.py collectstatic
+pytohn manage.py test
+python manage.py runserver
 
-A scheduling website, gathering all data from the users in universities, to help them better manage their time.
+
